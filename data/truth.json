@@ -1,0 +1,190 @@
+[
+ {
+  "game_id": "r1-b1",
+  "path": "data/r1-b1.mp4",
+  "fps": 25,
+  "frames": 338,
+  "duration": 13.52,
+  "shots": [
+   {
+    "kind": "board",
+    "start_time": 0.0,
+    "duration": 4.0,
+    "frames": 100
+   },
+   {
+    "kind": "player",
+    "start_time": 4.0,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 5.52,
+    "duration": 3.0,
+    "frames": 75
+   },
+   {
+    "kind": "clock",
+    "start_time": 8.52,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 10.04,
+    "duration": 2.48,
+    "frames": 62
+   },
+   {
+    "kind": "result",
+    "start_time": 12.52,
+    "duration": 1.0,
+    "frames": 25
+   }
+  ],
+  "final_fen": "..pp.pp./p.ppppp./p.P.P..p/PP.pp.../pP.....P/....Pp../P....PPP/PPPPP...",
+  "plies": 16
+ },
+ {
+  "game_id": "r1-b2",
+  "path": "data/r1-b2.mp4",
+  "fps": 25,
+  "frames": 326,
+  "duration": 13.04,
+  "shots": [
+   {
+    "kind": "board",
+    "start_time": 0.0,
+    "duration": 3.0,
+    "frames": 75
+   },
+   {
+    "kind": "clock",
+    "start_time": 3.0,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 4.52,
+    "duration": 3.52,
+    "frames": 88
+   },
+   {
+    "kind": "player",
+    "start_time": 8.04,
+    "duration": 2.0,
+    "frames": 50
+   },
+   {
+    "kind": "board",
+    "start_time": 10.04,
+    "duration": 2.0,
+    "frames": 50
+   },
+   {
+    "kind": "result",
+    "start_time": 12.04,
+    "duration": 1.0,
+    "frames": 25
+   }
+  ],
+  "final_fen": "ppp..pp./pp.p.p../..p..ppP/.P.P..pP/pp...P.p/...PP.../PPP....P/PPPPP...",
+  "plies": 14
+ },
+ {
+  "game_id": "r2-b1",
+  "path": "data/r2-b1.mp4",
+  "fps": 25,
+  "frames": 301,
+  "duration": 12.04,
+  "shots": [
+   {
+    "kind": "player",
+    "start_time": 0.0,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 1.52,
+    "duration": 5.0,
+    "frames": 125
+   },
+   {
+    "kind": "clock",
+    "start_time": 6.52,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 8.04,
+    "duration": 3.0,
+    "frames": 75
+   },
+   {
+    "kind": "result",
+    "start_time": 11.04,
+    "duration": 1.0,
+    "frames": 25
+   }
+  ],
+  "final_fen": "pppp.ppp/...p.p.p/pPp..P../.P..P.../P.....Pp/.p..pp.P/P..P.PPP/.P..P.PP",
+  "plies": 14
+ },
+ {
+  "game_id": "r2-b2",
+  "path": "data/r2-b2.mp4",
+  "fps": 25,
+  "frames": 338,
+  "duration": 13.52,
+  "shots": [
+   {
+    "kind": "board",
+    "start_time": 0.0,
+    "duration": 2.48,
+    "frames": 62
+   },
+   {
+    "kind": "player",
+    "start_time": 2.48,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 4.0,
+    "duration": 2.48,
+    "frames": 62
+   },
+   {
+    "kind": "clock",
+    "start_time": 6.48,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "board",
+    "start_time": 8.0,
+    "duration": 3.0,
+    "frames": 75
+   },
+   {
+    "kind": "player",
+    "start_time": 11.0,
+    "duration": 1.52,
+    "frames": 38
+   },
+   {
+    "kind": "result",
+    "start_time": 12.52,
+    "duration": 1.0,
+    "frames": 25
+   }
+  ],
+  "final_fen": "p.pp.ppp/pp.ppp.p/...PP.P./..Pp..../.p.P..P./pP.....p/....PP.P/PPP..PPP",
+  "plies": 13
+ }
+]
